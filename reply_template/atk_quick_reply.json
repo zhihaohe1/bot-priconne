@@ -1,0 +1,21 @@
+{
+  "items": [
+      {
+      "type": "action",
+      "action": {
+          "type": "message",
+          "label": "進攻",
+          "text": "進攻"
+      }
+      },
+      {
+      "type": "action",
+      "action": {
+          "type": "message",
+          "label": "防守",
+          "text": "防守"
+      }
+      }
+
+  ]
+}
